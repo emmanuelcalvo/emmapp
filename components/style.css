@@ -1,0 +1,11 @@
+*{margin:0;padding:0;}
+
+.navBar {
+    background-color:red;
+    list-style: none;
+}
+
+.navBar a{
+    text-decoration: none;
+    color:white;
+}
